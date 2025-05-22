@@ -9,6 +9,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text style={styles.text}>Welcome to React Native Web!</Text>
+      <Text style={styles.text}>I am Soumitra Halder</Text> 
       <Button title="Click Me" onPress={handlePress} />
     </View>
   );
